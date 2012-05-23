@@ -5,7 +5,7 @@ from setuptools import setup
 setup(
      name='ip2location',
      version='0.1',
-     description='Return city, country, location, business details of given/outgoing ip'
+     description='Return city, country, location, business details of given/outgoing ip',
      author='Muhammad M Rahman',
      author_email='mmrs151@gmail.com',
      url='https://github.com/mrahma01/ip2location',
