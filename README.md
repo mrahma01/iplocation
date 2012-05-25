@@ -1,4 +1,4 @@
-ip2location
+iplocation
 ===========
 A simple python script to return the location and business details
 
