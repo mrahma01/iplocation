@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 URL = 'http://whatismyipaddress.com/ip/'
 
-class IP2Location(object):
+class IPLocation(object):
     def __init__(self, ip=None):
         if not ip:
             ip = IP

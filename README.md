@@ -3,11 +3,11 @@ ip2location
 A simple python script to return the location and business details
 
 ###[setup]###
-    pip install ip2location
+    pip install iplocation
 
 ###[usage]###
-    >>> from ip2location import *
-    >>> loc = IP2Location('207.97.227.239') # default takes your outgoing ip
+    >>> from iplocation import *
+    >>> loc = IPLocation('207.97.227.239') # default takes your outgoing ip
     >>> loc.location
             {   u'Area Code': u'415',
             u'City': u'San Francisco',

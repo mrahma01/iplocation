@@ -3,13 +3,13 @@
 from setuptools import setup
 
 setup(
-     name='ip2location',
+     name='iplocation',
      version='0.1',
      description='Return city, country, location, business details of given/outgoing ip',
      author='Muhammad M Rahman',
      author_email='mmrs151@gmail.com',
      url='https://github.com/mrahma01/ip2location',
-     py_modules=['ip2location'],
+     py_modules=['iplocation'],
      classifiers=[
           "License :: OSI Approved :: GNU General Public License (GPL)",
           "Programming Language :: Python",
